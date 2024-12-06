@@ -1,0 +1,2 @@
+# 06_Springboot_Application_DataJpa_Using_CrudRepository
+Developed CrudRepository boot application from scratch with detailed meanigful code with comments
